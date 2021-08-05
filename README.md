@@ -44,12 +44,15 @@ If the number cannot be stored in one of the four aforementioned primitives, pri
 * short
 * int
 * long
+
 150000 can be fitted in:
 * int
 * long
+
 1500000000 can be fitted in:
 * int
 * long
+
 213333333333333333333333333333333333 can't be fitted anywhere.
 -100000000000000 can be fitted in:
 * long
