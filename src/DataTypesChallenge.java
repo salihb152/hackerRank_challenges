@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class DataTypesChallenge {
     public static void main(String[] args) {
         int intMin= Integer.MIN_VALUE;
         int intMax= Integer.MAX_VALUE;
